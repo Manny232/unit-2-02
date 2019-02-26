@@ -1,0 +1,4 @@
+display.setDefault( "background", 0, 100, 1 )
+local image = display.newImageRect( "moto.png", 240, 200 )
+image.x = 140
+image.y = 300
